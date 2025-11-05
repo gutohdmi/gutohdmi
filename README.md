@@ -1,4 +1,4 @@
-<h2 align="left">Hello. Augusto and I'm a Jr Dev.</h2>
+<h2 align="left">Hello.</h2>
 
 ###
 
