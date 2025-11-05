@@ -28,16 +28,21 @@
   <a href="https://www.linkedin.com/in/augusto-seibel-625b9a311/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=gutohdmi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gutohdmi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<div align="right">
-  <a href="https://open.spotify.com/user/216vmtiikmyaaq257ukspew5y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=216vmtiikmyaaq257ukspew5y&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+<div>
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=gutohdmi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gutohdmi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  </div>
+  
+  ###
+  
+  <div align="right">
+    <a href="https://open.spotify.com/user/216vmtiikmyaaq257ukspew5y">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=216vmtiikmyaaq257ukspew5y&count=5&unique=false" alt="Spotify recently played"  />
+    </a>
+  </div>
 </div>
-
 ###
