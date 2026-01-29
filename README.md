@@ -45,11 +45,3 @@ Atuação frequente com:
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <a href="https://open.spotify.com/user/216vmtiikmyaaq257ukspew5y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=216vmtiikmyaaq257ukspew5y&count=5" alt="Spotify recently played" />
-  </a>
-</div>
