@@ -3,19 +3,6 @@
 
 ---
 
-<h2 align="left">[INFO] ------------------------------------------------------------------------<br>[INFO] About<br>[INFO] ------------------------------------------------------------------------</h2>
-
-Desenvolvedor focado em **Oracle APEX**, **SQL** e **Java**, com experiência na construção de aplicações corporativas orientadas a dados, automação de processos e interfaces funcionais para ambientes empresariais. Interesse constante em arquitetura de sistemas, desempenho de consultas e boas práticas de desenvolvimento.
-
-Atuação frequente com:
-
-* Aplicações APEX (forms, relatórios, DA, REST Data Sources)
-* Modelagem e otimização SQL
-* Integração backend e lógica de negócio
-* Ambientes colaborativos com versionamento e gestão ágil
-
----
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="32" alt="oracle" />
   <img width="12" />
